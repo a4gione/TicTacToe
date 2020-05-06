@@ -1,0 +1,40 @@
+Project Submission:
+
+To submit your project you will create a project folder with your name. Example
+is karlweiss-project. Within that folder you will have the following folders:
+
+java  -  contains all your source code.
+class  - contains all your .class files.
+resource - contains all your resource files (images, sounds, etc).
+javadoc - contains all your javadoc files.
+uml - contains your uml diagram(s).
+storyboard - contains your final storyboard document.
+
+The high level folder will be converted to a zip file and submitted.
+
+
+Project Presentation:
+Nov 26 - 9:30AM to 10:50AM in FL404 (Both in-class and on-line)
+Dec 5 - 7:45AM to 10:15AM in FL404 (In-class students)
+Dec 5 - 6:00PM to 9:00PM in GS103 (Online students)
+
+If you want to present on Nov 26, please email me with that request. There
+will only be around 12 people who can present. This is open to both in-class 
+and online students. If the Dec 5 time slot that you are assigned to is an issue,
+please email me and we will attempt to schedule you in the other presentation time slot.
+
+Your project presentation should be no more than 5 minutes.
+You should demonstrate all the required features of the project:
+1) Menu Bar
+2) New Game
+3) Help
+4) Persistent storage of game status.
+You should also demonstrate how your game plays in some detail. For example,
+in the Tic Tac Toe game, there should be a demonstration of a winning game and
+a tie game.
+Be prepared to answer questions on the design and implementation of your project.
+You should also demonstrate features that have gone beyond the minimum requirements.
+These will help your grade.
+
+You are encouraged to bring your laptop, which you can connect through an htmi interface.
+You can also use VMWare with the local computer system in the classroom.

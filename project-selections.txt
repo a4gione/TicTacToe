@@ -1,0 +1,48 @@
+
+
+Each project will need to meet the following requirements:
+1) Be implemented with a graphical user interface in a "frame" object.
+2) Have a Menu selection list with the following options:
+	a) Help menu
+	b) Start new game
+3) The project software must be developed under the edu.fau.COT4930 package.
+4) The project software must use the Player class that will be provided.
+5) Score and status of game must be displayed.
+6) The game should be easy to play.
+7) The score and player information must be persisent when the application is started.
+8) Optional - Undo last move (just 1 move deep) - this is optional
+
+Deliverable Phases:
+1) Graphical User Interface Storyboard for your project.
+2) Class Diagram - UML diagrams
+3) Commented Code with Java Docs
+4) Presentation
+
+Projects
+1) Tic Tac Toe - 2 player game
+Information on the rules is found at https://en.wikipedia.org/wiki/Tic-tac-toe
+
+2) Connect 4 - 2 player game - implement a 7 columns × 6 rows grid
+Information on the rules is found at https://en.wikipedia.org/wiki/Connect_Four
+
+3) Dots and Boxes game - 2 player game - Implement a 5 x 4 grid (width x height)
+Information on the rules is  https://www.youtube.com/watch?v=hQdQWxQk8_A&app=desktop
+https://en.wikipedia.org/wiki/Dots_and_Boxes
+
+4) 21 card game - 2 player game - Dealer and 1 player
+Just track the number of wins, loses, and ties.
+Use the following rules:
+Value of cards - Aces may be counted as 1 or 11 points, 2 to 9 cards are valued at face value, and tens and face 
+cards count as ten points. A players card values are totaled to determine who wins a game.
+There is a dealer and a player. The player receives 2 cards face up and the dealer gets two cards one up and one down.
+The player can decide to take as many cards while not exceeding 21. The program must enforce the game rules.
+Therefore a player cannot take more cards once 21 has been exceeded. If the player exceeds 21, then the player loses.
+When the player has not exceeded 21 and decides to stop taking cards, then it is the dealer turn.
+Dealer Rules - After the player's turn, the dealer will turn over the cards. If the dealer has 16 or less, then 
+the dealer will draw another card. A special situation is when the dealer has an ace and any number of cards 
+totaling six points (known as a "soft 17"). In this case the dealer must take a card. If the dealer goes over 21. 
+then the dealer loses. If both the dealer and the player have not exceeded 21, then the player with the highest value wins.
+If they have the same value, then it is a tie. The number of wins, loses, and ties should be tracked and displayed
+for the player. The deck of cards should be shuffled at the start of each game. If a player has 21 with 2 cards, then that
+player wins immediately. If both players have 21 with 2 cards, then it is a tie. 
+
